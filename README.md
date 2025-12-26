@@ -60,5 +60,5 @@ Utiliza Firebase para autenticación, base de datos en tiempo real y almacenamie
 ---
 
 ## 📫 Contacto
-**Email:** maurikius@gmail.com  
+**Email personal:** maurikius@gmail.com
 **Ubicación:** Sevilla, España
