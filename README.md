@@ -54,9 +54,9 @@ Utiliza Firebase para autenticación, base de datos en tiempo real y almacenamie
 ---
 
 ## 📈 Actualmente
-- Liderando un equipo de desarrollo backend en **Grupo Konecta**  
-- Enfocado en proyectos PHP y optimización de procesos internos  
-- Explorando nuevas arquitecturas y buenas prácticas en backend  
+- Lidero un equipo de desarrollo en **Grupo Konecta**.
+- Enfocado en proyectos Full Stack y optimización de procesos internos . 
+- Explorando nuevas arquitecturas y buenas prácticas.
 
 ---
 
