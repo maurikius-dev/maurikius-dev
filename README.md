@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Mauricio Fuentes Raposo  
-### 🧑‍💻 Team Leader · Backend Developer · Especialista en PHP
+### 🧑‍💻 Team Leader · PHP Developer
 
-Desarrollador backend con más de **13 años de experiencia** creando aplicaciones web, diseñando arquitecturas internas y liderando equipos técnicos.  
+Desarrollador backend con más de **15 años de experiencia** creando aplicaciones web, diseñando arquitecturas internas y liderando equipos técnicos.  
 Mi enfoque principal es el **desarrollo backend con PHP**, aplicando buenas prácticas, patrones de diseño y soluciones escalables.  
 También utilizo **Python** para automatización y soporte a procesos internos.
 
